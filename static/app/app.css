@@ -1,0 +1,19 @@
+
+h1, h2 {
+  font-weight: normal;
+}
+
+
+a {
+  color: #42b983;
+}
+.click_text{
+  color: #409eff;
+  cursor: pointer;
+}
+.main_color{
+  color: #409eff;
+}
+.middle_input{
+  width: 200px;
+}
